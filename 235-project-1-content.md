@@ -77,7 +77,7 @@ It wasn’t until I went to show my website on my laptop to some friends that I 
 
 ### Being Realistic
 
-My previous game design classes introduced me to the concept of realistic scope. It was an idea we discussed, but given about twelve weeks to make a game doesn’t properly reflect it in my opinion. Over the summer, I participated in a 48 hour game jam. This is where scaling scope really set in. So that is where I started with this game: what was something with relatively simple mechanics yet engaging enough to keep attention. With only basic knowledge of JavaScript currently, I didn’t want to bite off more than I could chew either. A game made by the game development YouTuber Dani came to mind. He made a simple game about rapidly bouncing from point to point, gaining a high score as you went.
+My previous game design classes introduced me to the concept of realistic scope. It was an idea we discussed, but given about twelve weeks to make a game doesn’t properly reflect it in my opinion. Over the summer, I participated in a 48 hour game jam. This is where scaling scope really set in. So that is where I started with this game: what was something with relatively simple mechanics yet engaging enough to keep attention. With only basic knowledge of JavaScript currently, I didn’t want to bite off more than I could chew either. A game made by the [game development YouTuber Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ) came to mind. He made a simple game about rapidly bouncing from point to point, gaining a high score as you went.
 
 ### Innovating on Inspiration
 
