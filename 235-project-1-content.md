@@ -52,7 +52,7 @@ Tether Space is a fast paced physics game. Bounce from tether to tether while gr
 5. You automatically reel into a tether point to increase speed
 6. Don't reel in too far or you'll hit the tether and lose
 
-### Documentation Page
+# Documentation Page
 
 ## Weekly Progress Updates
 
