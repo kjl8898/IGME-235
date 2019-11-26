@@ -1,8 +1,3 @@
-As with Project 1, include a Documentation page (put the link in the comments field of the dropbox, 
-as well as an easy to find link in the project site itself) where you document your process, cite any
-sources, tell me where to find anything special you want me to see, and also explain how you met the
-requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-
 # Project 2 Documentation
 
 The following is the design philosophy, process, and general workings of project 2.
